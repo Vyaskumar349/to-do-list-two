@@ -1,8 +1,8 @@
 {
-  "name": "to-do-list",
+  "name": "to-do-list-two",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vyaskumar349.github.io/to-do-list",
+  "homepage": "https://Vyaskumar349.github.io/to-do-list-two",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
